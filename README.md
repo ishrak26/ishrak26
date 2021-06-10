@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 I am Md. Ishrak Ahsan, an undergraduate student of Computer Science and Engineering at Bangladesh University of Engineering and Technology. I like problem-solving and exploring different fields of computer programming.
+
+<!-- ### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishrak26&langs_count=8)](https://github.com/ishrak26/github-readme-stats)
+ -->
 <!--
 **ishrak26/ishrak26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
