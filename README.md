@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am Md. Ishrak Ahsan, an undergraduate student of Computer Science and Engineering at Bangladesh University of Engineering and Technology. I like problem-solving and exploring different fields of computer programming.
 <!--
 **ishrak26/ishrak26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
