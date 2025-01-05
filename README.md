@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 
+[<img align="left" alt="Md. Ishrak Ahsan | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Md. Ishrak Ahsan | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="ishrak26 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 [<img align="left" alt="Md. Ishrak Ahsan | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ahsan_ishrak | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Md. Ishrak Ahsan | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ishrak26 | Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />][codeforces]
 
 <br/>
 
@@ -38,6 +40,7 @@ Here are some ideas to get you started:
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=arduino)
+
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
@@ -46,7 +49,8 @@ Here are some ideas to get you started:
 ![Oracle DB](https://img.shields.io/badge/-OracleDB-000000?style=flat&logo=oracle) <br />
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) 
+![Next](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs) <br />
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow) 
 
 ## Github Overview
 
@@ -56,6 +60,8 @@ Here are some ideas to get you started:
  <!-- ![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=ishrak26) -->
 <br />
 
+[linkedin]: https://www.linkedin.com/in/ishrak26
+[kaggle]: https://www.kaggle.com/ishrak26
 [instagram]: https://www.instagram.com/ahsan_ishrak
 [facebook]: https://www.facebook.com/ishrak26
 [youtube]: https://www.youtube.com/@ishrak26
